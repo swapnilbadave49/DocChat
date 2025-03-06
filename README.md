@@ -2,17 +2,13 @@
 
 ### Document Reading, Redefined.
 
-PageTalk allows you to effortlessly converse with your documents. Simply upload a document, and PageTalk will automatically generate a summary of the document. You can then ask questions about the document, and PageTalk will provide you with the answers. PageTalk is perfect for students, researchers, and professionals who want to quickly understand and analyze documents.
+DocChat allows you to effortlessly converse with your documents. Simply upload a document, and DocChat will automatically generate a summary of the document. You can then ask questions about the document, and DocChat will provide you with the answers. DocChat is perfect for students, researchers, and professionals who want to quickly understand and analyze documents.
 
 Export the document to [NoteSync](https://github.com/techymt/NoteSync), and you can easily share the document with your friends and colleagues. NoteSync allows you to collaborate with others in real-time, making it easy to work together on projects.
 
 <div align="center">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1jcnB3Y2Ezdjlhd2podHVrZ2hneG9lY292c2VnZHZpdXR2bGpkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orifaQEOagjYJ1EXe/giphy.gif" height="250px">
 </div>
-
-# Demo
-
-[Demo.webm](https://github.com/shxntanu/PageTalk/assets/97496261/cbb7bdd1-15d2-41e4-bc76-455a77f436ca)
 
 ## Built With
 
@@ -57,8 +53,8 @@ Export the document to [NoteSync](https://github.com/techymt/NoteSync), and you 
 
 # Features
 
--   **Document Summarization**: PageTalk automatically generates a summary of the document.
--   **Question Answering**: Ask questions about the document, and PageTalk will provide you with the answers.
+-   **Document Summarization**: DocChat automatically generates a summary of the document.
+-   **Question Answering**: Ask questions about the document, and DocChat will provide you with the answers.
 -   **Export to NoteSync**: Export the document to as a Note in proper markdown format to [NoteSync](https://github.com/techymt/NoteSync)
 
 
