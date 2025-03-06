@@ -64,6 +64,4 @@ Export the document to [NoteSync](https://github.com/techymt/NoteSync), and you 
 
 ## Contributors
 
--   [Shantanu Wable](https://github.com/shxntanu)
--   [Mustafa Trunkwala](https://github.com/techymt)
--   [Tejas Thorat](https://github.com/tejaspthorat)
+-   [Sahil Katkamwar](https://github.com/jaalnock)
