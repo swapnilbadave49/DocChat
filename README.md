@@ -55,7 +55,6 @@ Export the document to [NoteSync](https://github.com/techymt/NoteSync), and you 
 
 -   **Document Summarization**: DocChat automatically generates a summary of the document.
 -   **Question Answering**: Ask questions about the document, and DocChat will provide you with the answers.
--   **Export to NoteSync**: Export the document to as a Note in proper markdown format to [NoteSync](https://github.com/techymt/NoteSync)
 
 
 ## Contributors
